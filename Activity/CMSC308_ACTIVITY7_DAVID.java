@@ -52,7 +52,7 @@ public class CMSC308_ACTIVITY7_DAVID
                     System.out.println("Enter the Multiplier: ");
                     int mult = scanner.nextInt();
                     int totalss = mul * mult;
-                    System.out.println("The sum of " + mul + " and " + mult + " is " + totalss);
+                    System.out.println("The product of " + mul + " and " + mult + " is " + totalss);
                     break;
 
                 case 4:
@@ -62,7 +62,7 @@ public class CMSC308_ACTIVITY7_DAVID
                     System.out.println("Enter the Divisor: ");
                     int divi = scanner.nextInt();
                     int totalsss = div / divi;
-                    System.out.println("The sum of " + div + " and " + divi + " is " + totalsss);
+                    System.out.println("The quotient of " + div + " and " + divi + " is " + totalsss);
                     break;
 
                 case 5:
